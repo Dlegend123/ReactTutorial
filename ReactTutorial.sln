@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "reactapp", "reactapp\reactapp.esproj", "{84DBC65B-42FF-4D3F-86DB-A6014810F9BB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "webapi", "webapi\webapi.csproj", "{21E6DA2D-BBF6-4B3D-85D5-F35C6908B19D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84DBC65B-42FF-4D3F-86DB-A6014810F9BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84DBC65B-42FF-4D3F-86DB-A6014810F9BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84DBC65B-42FF-4D3F-86DB-A6014810F9BB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{84DBC65B-42FF-4D3F-86DB-A6014810F9BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84DBC65B-42FF-4D3F-86DB-A6014810F9BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84DBC65B-42FF-4D3F-86DB-A6014810F9BB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{21E6DA2D-BBF6-4B3D-85D5-F35C6908B19D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21E6DA2D-BBF6-4B3D-85D5-F35C6908B19D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21E6DA2D-BBF6-4B3D-85D5-F35C6908B19D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21E6DA2D-BBF6-4B3D-85D5-F35C6908B19D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {807FCE56-6AD9-4DB0-9942-14371E301B45}
+	EndGlobalSection
+EndGlobal
